@@ -1,0 +1,87 @@
+.button {
+  position: absolute sticky;
+  display: inline-block;
+  background-color: #57008a;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.button:hover {
+  opacity: .8;
+  cursor: pointer;
+  outline: none;
+}
+
+
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #57008a;
+  }
+
+  .container {
+    margin-top: 100px;
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  h1 {
+    font-size: 36px;
+    margin-bottom: 100px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .button1 {
+  position: absolute sticky;
+  display: inline-block;
+  background-color: #cb8000d3;
+  border: none;
+  color: rgb(78, 78, 78);
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  }
+
+  .form-control {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    text-wrap: none;
+    
+  }
+
+  .btn {
+    display: inline-block;
+    background-color: #58a75b;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  } 
+  
